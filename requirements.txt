@@ -1,2 +1,9 @@
 crawl4ai
 pydantic
+langchain
+playwright
+langchain-google-vertexai
+langchain-google-genai
+langchain_community
+langchain-chroma
+langgraph
