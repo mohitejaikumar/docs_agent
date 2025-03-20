@@ -7,3 +7,7 @@ langchain-google-genai
 langchain_community
 langchain-chroma
 langgraph
+langchainhub
+tiktoken
+chromadb
+unstructured
